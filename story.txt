@@ -1,2 +1,3 @@
 Once a upon a time in a land of code, a new story began. This is a test.
 The story was about learning VS Code and GitHub in 2026
+A wise old grandpa named "Senna" watched from a tree.
